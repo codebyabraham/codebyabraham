@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **JS,React,NodeJs**
+- 💬 Ask me about **JS & ReactJS**
 
 - 📫 How to reach me **abrahamyusuf17@gmail.com**
 
-- ⚡ Fun fact **I'm funny**
+- ⚡ Fun fact **I personal feel PES is better than EA🙃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
