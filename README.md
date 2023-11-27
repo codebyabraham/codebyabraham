@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/codebyabraham" target="blank"><img src="https://img.shields.io/twitter/follow/codebyabraham?logo=twitter&style=for-the-badge" alt="codebyabraham" /></a> </p>
 
-- 🔭 I’m currently working on **NIMC-Verification-Marriage-Rectification-Webapp**
+- 🔭 I’m currently working on Full-stack website.
 
 - 🌱 I’m currently learning **React Native**
 
